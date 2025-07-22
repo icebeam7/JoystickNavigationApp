@@ -1,6 +1,6 @@
-﻿using JoystickNavigationApp.Controls;
+﻿//Credits: https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app
+
 using JoystickNavigationApp.Helpers;
-using JoystickNavigationApp.Views;
 
 namespace JoystickNavigationApp
 {
