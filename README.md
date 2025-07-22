@@ -16,10 +16,10 @@ This project demonstrates how to create a **gesture-driven joystick-style naviga
 ---
 
 ## 📸 Demo
-
-
+https://github.com/user-attachments/assets/12067677-8ded-4fe6-9156-c8aa850d9e90
 
 ---
+
 
 ## 💻 How It Works
 
