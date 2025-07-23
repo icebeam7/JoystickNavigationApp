@@ -32,4 +32,4 @@ https://github.com/user-attachments/assets/12067677-8ded-4fe6-9156-c8aa850d9e90
 ---
 
 ## 🧑‍ Blog Post
-https://dev.to/icebeam7/joystick-navigation-ui-in-net-maui
+[https://dev.to/icebeam7/joystick-navigation-ui-in-net-maui-5974](https://dev.to/icebeam7/joystick-navigation-ui-in-net-maui-5974)
